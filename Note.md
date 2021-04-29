@@ -16,3 +16,5 @@
 ### 论文
 
 - [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
+- [Raft](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
+- [Raft 动态演示](https://raft.github.io/)
